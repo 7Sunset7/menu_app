@@ -1,6 +1,6 @@
 # menu_app
 # Клонируем приложение и переходим в него
-git clone https://github.com/7Sunset7/menu_app.git
+git clone https://github.com/7Sunset7/menu_app.git  
 cd menu_app
 # Запускаем контейнер с приложением и базой данных
 docker-compose up --build -d
